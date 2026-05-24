@@ -73,8 +73,9 @@ Three answers were validated using SQL queries against the raw dataset:
 - `README.md` – This file
 
 ## Author
-[Your Name]
-[Your Student Number]
+Boitumelo Zwane
+2805001656
+
 24 May 2026
 
 ## Course
